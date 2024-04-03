@@ -1,16 +1,46 @@
-### Hi there 👋
+### HELLO WORLD 👋
 
-<!--
-**imelisa1/imelisa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZuaDE5MnRnaHlkZ3lyb29jZ2wyMW05bDA4ZWM5a3l3eWFkejIzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="150"/>
 
-Here are some ideas to get you started:
+### 💜 ABOUT ME
+---
+🧚‍♀️ I am 3rd grade Computer Engineerin student at İstanbul Beykent University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I worked with C++ and JAVA.
+- 📱 I am currently working on Mobile App Development by React Native by myself.
+- 🌸 I share all my projects on my GitHub profile.
+
+---
+
+### ⌨️ LANGUAGES 
+
+---
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🤙 FIND ME 
+
+---
+
+<div id="badges1">
+    <a href="www.linkedin.com/in/irem-melisa-taş-168641255">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
+<div id="badges2">
+    <a href="https://stackoverflow.com/users/23344405/melissat">
+      <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow Badges"/>
+    </a>
+  </div>
+</div>
+
+
+
+

@@ -5,7 +5,7 @@
 
 ### 💜 ABOUT ME
 ---
-🧚‍♀️ I am 3rd grade Computer Engineerin student at İstanbul Beykent University.
+🧚‍♀️ I am 3rd grade Computer Engineering student at İstanbul Beykent University.
 
 - 💻 I worked with C++ and JAVA.
 - 📱 I am currently working on Mobile App Development by React Native by myself.

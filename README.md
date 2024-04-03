@@ -11,8 +11,6 @@
 - 📱 I am currently working on Mobile App Development by React Native by myself.
 - 🌸 I share all my projects on my GitHub profile.
 
----
-
 ### ⌨️ LANGUAGES 
 
 ---
@@ -21,8 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
 </div>
-
----
 
 ### 🤙 FIND ME 
 

@@ -5,10 +5,10 @@
 
 ### 💜 ABOUT ME
 ---
-🧚‍♀️ I am 3rd grade Computer Engineering student at İstanbul Beykent University.
+🧚‍♀️ I am a Computer Engineering senior student at İstanbul Beykent University.
 
-- 💻 I worked with C++ and JAVA.
-- 📱 I am currently working on Mobile App Development by React Native by myself.
+- 💻 I worked with C++, JAVA and Python.
+- 📱 I am currently working on machine learning applications in mobile applications on various platforms(Flutter, Android Studio, React Native).
 - 🌸 I share all my projects on my GitHub profile.
 
 ### ⌨️ LANGUAGES 

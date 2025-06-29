@@ -5,7 +5,7 @@
 
 ### 💜 ABOUT ME
 ---
-🧚‍♀️ I am a Computer Engineering senior student at İstanbul Beykent University.
+🧚‍♀️ I am a recent graduate of Computer Engineering from Istanbul Beykent University.
 
 - 💻 I worked with C++, JAVA and Python.
 - 📱 I am currently working on machine learning applications in mobile applications on various platforms(Flutter, Android Studio, React Native).

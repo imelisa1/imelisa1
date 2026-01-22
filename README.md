@@ -8,22 +8,16 @@
 ## 👋 Hello, I'm Melisa  
 
 💜 **Computer Engineering Graduate**  
-🤖 **AI / ML & Data Science Enthusiast**
+🤖 **AI / Machine Learning & Data Science**
 
-I am focused on **Artificial Intelligence, Machine Learning, and Data Science**,  
-with hands-on experience in **model training, optimization, and deployment**.
-
-### 🔍 What I work on
-- 🤖 **Machine Learning & Deep Learning**
-- 📊 **Data Analysis & Model Evaluation**
-- 📷 **Computer Vision (Face, Liveness, Deepfake Detection)**
-- 🧠 **TensorFlow / TensorFlow Lite**
-- ⚙️ Deploying models on **mobile & cross-platform environments**
+I worked on:
+- Data preprocessing, cleaning, and transformation pipelines  
+- Training and evaluating ML models (accuracy, confusion matrix, threshold tuning)  
+- Integrating trained models into **Android & Flutter** environments  
+- SDK development and model deployment workflows  
 
 ### 🎯 Current Goal
-- Building real-world AI systems  
-- Improving model generalization & performance  
-- Preparing for a **Master’s degree in AI / Data Science**
+- I am focused on building a strong and sustainable career in **AI, Machine Learning, and Data Science**, and I am actively working on expanding my expertise through continuous learning and practical project development.
 
     </td>
   </tr>
@@ -33,9 +27,19 @@ with hands-on experience in **model training, optimization, and deployment**.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40"/>
 </div>
+
+### 📊 Data & Tools
+<div>
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/>
+</div>
+
 
 ### 📱 Deployment & Application Platforms
 <div>

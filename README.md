@@ -1,7 +1,7 @@
 ### HELLO WORLD 👋
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZuaDE5MnRnaHlkZ3lyb29jZ2wyMW05bDA4ZWM5a3l3eWFkejIzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="150"/>
+  <img src="https://pin.it/7h0nmXIu0" width="150"/>
 
 ### 💜 ABOUT ME
 ---

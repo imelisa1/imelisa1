@@ -8,37 +8,49 @@
 ## 👋 Hello, I'm Melisa  
 
 💜 **Computer Engineering Graduate**  
-📱 **Mobile & AI Engineer**  
+🤖 **AI / ML & Data Science Enthusiast**
 
-I build **AI-powered mobile applications** and work on **computer vision & on-device machine learning** systems.
+I am focused on **Artificial Intelligence, Machine Learning, and Data Science**,  
+with hands-on experience in **model training, optimization, and deployment**.
 
 ### 🔍 What I work on
-- 🤖 **Machine Learning & Computer Vision**
-- 📷 **Face Analysis, Liveness & Deepfake Detection**
-- 📱 **Flutter & Android Studio**
-- 🧠 **TensorFlow Lite (on-device inference)**
-- ⚙️ Model optimization & mobile deployment
+- 🤖 **Machine Learning & Deep Learning**
+- 📊 **Data Analysis & Model Evaluation**
+- 📷 **Computer Vision (Face, Liveness, Deepfake Detection)**
+- 🧠 **TensorFlow / TensorFlow Lite**
+- ⚙️ Deploying models on **mobile & cross-platform environments**
 
-### 🎯 Current Focus
-- Real-time face & liveness analysis  
-- AI-based healthcare & security applications  
+### 🎯 Current Goal
+- Building real-world AI systems  
+- Improving model generalization & performance  
 - Preparing for a **Master’s degree in AI / Data Science**
 
     </td>
   </tr>
 </table>
----
 
-### 🛠 Tech Stack
+### 🧠 AI / ML & Data Science
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40"/>
 </div>
----
+
+### 📱 Deployment & Application Platforms
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
+</div>
+
+### ⚙️ Programming Languages
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</div>
+
 
 ### 🤝 Connect With Me
 <div>

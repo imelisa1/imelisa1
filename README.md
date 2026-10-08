@@ -31,7 +31,7 @@ My experience includes:
 
 <table width="100%">
 <tr>
-<td valign="top" width="500">
+<td valign="top" width="300">
 <h3>📊 Data Analytics</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>

@@ -13,14 +13,14 @@ I am a Computer Engineering graduate focused on data analytics and business inte
 
 My experience includes:
 
-Data cleaning, preprocessing, and transformation
-Exploratory Data Analysis (EDA) with Python
-Data analysis and querying with SQL
-KPI development and performance analysis
-Interactive dashboard development with Power BI & DAX
-Data visualization and reporting
-Machine learning model training and testing
-Image processing and model integration through previous software engineering experience
+- Data cleaning, preprocessing, and transformation
+- Exploratory Data Analysis (EDA) with Python
+- Data analysis and querying with SQL
+- KPI development and performance analysis
+- Interactive dashboard development with Power BI & DAX
+- Data visualization and reporting
+- Machine learning model training and testing
+- Image processing and model integration through previous software engineering experience
 
 ### 🎯 Current Goal
 - I am building my career in Data Analytics and Business Intelligence, continuously improving my skills through hands-on projects, real-world datasets, and data-driven problem solving.
@@ -29,54 +29,62 @@ Image processing and model integration through previous software engineering exp
   </tr>
 </table>
 
-### 📊 Data Analytics
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
-  <img src="https://www.streamlinehq.com/icons/download/seaborn--31103" width="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-### 📱 Business Intelligence
-<div>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
-  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" alt="excel"/>
-</div>
+<h3>📊 Data Analytics</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
 
-### 🤖 Machine Learning
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
-  </div>
-  
-### ⚙️ Programming Languages
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</div>
+<h3>📱 Business Intelligence</h3>
+<p>
+  <img src="https://img.icons8.com/color/48/power-bi-2021.png" width="40" height="40" alt="Power BI"/>
+  <img src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" width="40" height="40" alt="Excel"/>
+</p>
 
-### 🛠️ Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>
-</div>
+<h3>🤖 Machine Learning</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40"/>
+</p>
 
-### 🤝 Accounts
-<div>
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+    </td>
+    <td valign="top" width="50%">
+
+<h3>⚙️ Programming Languages</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</p>
+
+<h3>🛠️ Tools</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+<h3>🤝 Accounts</h3>
+<p>
   <a href="https://www.kaggle.com/iremelisatas" target="_blank">
-    <img src=""/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/iremelisatas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
+  </a>
+</p>
 
-
+    </td>
+  </tr>
+</table>
 

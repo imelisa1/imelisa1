@@ -1,5 +1,36 @@
 <table>
 <tr>
+<td width="300">
+<img src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif" width="280"/>
+</td>
+<td>
+
+## 👋 Hello, I'm Melisa
+
+💜 **Data Analyst | Python & SQL | Power BI**
+
+I am a Computer Engineering graduate focused on data analytics and business intelligence. I am interested in transforming raw data into meaningful insights and analyses, communicating these insights effectively, and supporting data-driven decision-making.
+
+My experience includes:
+
+- Data cleaning, preprocessing, and transformation
+- Exploratory Data Analysis (EDA) with Python
+- Data analysis and querying with SQL
+- KPI development and performance analysis
+- Interactive dashboard development with Power BI & DAX
+- Data visualization and reporting
+- Machine learning model training and testing
+- Image processing and model integration through previous software engineering experience
+
+### 🎯 Current Goal
+- I am building my career in Data Analytics and Business Intelligence, continuously improving my skills through hands-on projects, real-world datasets, and data-driven problem solving.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td valign="top" width="50%">
 <h3>📊 Data Analytics</h3>
 <p>
@@ -51,4 +82,3 @@
 </td>
 </tr>
 </table>
-
